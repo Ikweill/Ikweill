@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm [***Ikweill***] 👋
 
-<!--
-**Ikweill/Ikweill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer even though its hard for me still willing to learn.I love contributing to open-source projects. Here you'll find a glimpse of my coding journey.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning [Java For now].
+- 👯 I’m looking to collaborate on [On People Who's Willing To Teach Me Java].
+- 💬 Ask me about [Got Dementia and Short Term Memory Loss].
+- 📫 How to reach me: [tbatiquillo99@gmail.com].
+- 😄 Pronouns: [The Default Male].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+- [***Java***]
+
+
