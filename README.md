@@ -1,4 +1,4 @@
-# Hi there, I'm [***Ikweill***] 👋
+# Hi there, I'm [***Treb***] 👋
 
 I'm **passionate about programming even** though its hard for me still willing to learn.
 I would love to contribute to open-source projects and learn from the masters of coding. Here you'll find a glimpse of my coding journey, my ups and downs, my journey to the five stages of grief in every code i make.
